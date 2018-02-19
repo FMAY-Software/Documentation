@@ -14,5 +14,5 @@ Enter the project effort estimate here, including an estimated delivery time.  N
 
 ## Pledging
 
-Enter the pledge gaol here.
+Enter the pledge goal here.
  
