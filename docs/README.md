@@ -14,5 +14,10 @@ Enter the project effort estimate here, including an estimated delivery time.  N
 
 ## Pledging
 
-Enter the pledge goal here.
+Enter the pledge goal here.  Include information regarding the pledge amount.
+
+### Pledge to this project
+<a id="Pledge Form"></a>[Enter pledge information](pledge_form.html)
+
+![progress](http://progressed.io/bar/0 "progress")
  
