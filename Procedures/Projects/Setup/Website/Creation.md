@@ -2,7 +2,7 @@
 
 Each project shall host its own website in its repository.  This website shall contain the project requirements, pledge goal, and xpected release timeframe.  
 
-See the repository creation documentation <a id="Repository creation"></a>[Respository Creation](FMAY-Software/Documentation/blob/master/Procedures/Projects/Setup/Repository/Creation.md)  
+See the repository creation documentation <a id="Repository creation"></a>[Respository Creation](https://github.com/FMAY-Software/Documentation/blob/master/Procedures/Projects/Setup/Repository/Creation.md)  
 
 Visit the <a id="Pledging Model"></a>[Pledge Model](https://fmaysoftware.wordpress.com/pledging-model/) page for details on project pricing.  
 
