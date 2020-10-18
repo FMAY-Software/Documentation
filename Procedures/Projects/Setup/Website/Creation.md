@@ -8,7 +8,7 @@ Visit the <a id="Pledging Model"></a>[Pledge Model](https://fmaysoftware.wordpre
 
 - Create website page for project  
   - Create a "docs" folder in the repository  
-  - Copy the website template from: <a id="Website Template"></a>[Website Template](https://github./com/fmay-software/Documentation/docs)  
+  - Copy the website template from: <a id="Website Template"></a>[Website Template](https://github.com/FMAY-Software/Documentation/docs)  
   - Go to the repository page and select the Settings tab  
   - In the GitHub Pages section under Source check the master branch /docs folder   
   - Choose Change Theme and select the Modernist theme and click Select Theme  
